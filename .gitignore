@@ -1,0 +1,29 @@
+# Gitlab2Graph
+*.ini
+
+# Jetbrains IDEs
+.idea/
+
+# Ipython
+**/.ipynb_checkpoints/
+
+# Pytest cache
+**/.pytest_cache/
+
+#Python
+__pycache__
+*.pyc
+*.log
+.eggs/
+**.egg-info/
+
+# Virtual Environments
+env/
+venv/
+bak_env/
+
+# Logging
+logs/
+*.log
+*.out
+

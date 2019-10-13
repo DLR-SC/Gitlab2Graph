@@ -1,0 +1,17 @@
+[GITLAB]
+token = deadc0ffee
+
+[NEO4J]
+hostname = localhost
+;bolt or http
+protocol = bolt
+port = 7687
+db = db/data/
+user = neo4j
+password = neo4jneo4j
+
+[PROJECT]
+project_id = 23
+
+[ProjectPipeline]
+test_attr = 42
