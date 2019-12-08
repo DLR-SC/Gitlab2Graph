@@ -82,12 +82,12 @@ or
 python gitlab2graph.py project1.ini project2.ini
 ```
 
-## How to cite
+## How to cite?
 
 If you use this work in a scientific publication, please cite the specific version that you have 
 used as follows:
 
-> Martin Stoffers: "Gitlab2Graph", <RELEASE_NUMBER>, <Publication_Date>, <Git_Repository_URL>
+> Stoffers, Martin. (2019, October 13). Gitlab2Graph (Version 1.0.0). Zenodo. http://doi.org/10.5281/zenodo.3469386
 
 You can find information about the release number and the publication date in the
 [CHANGELOG](CHANGELOG.md).
